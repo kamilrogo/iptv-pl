@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TVRepublika.pl" tvg-logo="http://epg.ovh/logo/TV+Republika.png" timeshift="0", TV Republika
+#EXTGRP:15. Poland
+https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8
+#EXTINF:0 tvg-id="StopklatkaTV.pl" tvg-logo="http://epg.ovh/logo/Stopklatka+TV.png" timeshift="0", Stopklatka TV
+#EXTGRP:15. Poland
+https://cdn-main.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
+#EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.ovh/logo/Polo+TV.png" timeshift="0", Polo TV
+#EXTGRP:15. Poland
+https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
