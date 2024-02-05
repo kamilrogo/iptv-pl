@@ -8,3 +8,6 @@ https://cdn-main.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.ovh/logo/Polo+TV.png" timeshift="0", Polo TV
 #EXTGRP:15. Poland
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" timeshift="0", TVP Polonia
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia
