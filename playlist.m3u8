@@ -19,3 +19,9 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.ovh/logo/Disney+XD.png" timeshift="0", Disney XD
+https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+#EXTINF:0 tvg-id="NickJr.pl" tvg-logo="http://epg.ovh/logo/Nick+Jr..png" timeshift="0", Nick Jr.
+https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
+#EXTINF:0 tvg-id="Nicktoons.pl" tvg-logo="http://epg.ovh/logo/Nicktoons.png" timeshift="0", Nicktoons
+https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
