@@ -1,2 +1,3 @@
-#EXTINF:9999,group-title="VOD", Test VOD
+#EXTM3U
+#EXTINF:0,logo="https://media.themoviedb.org/t/p/w220_and_h330_face/dtoNnabE4DgxUWsvoMpONzMFhNX.jpg", Przykładowe wideło!
 https://vcze306.cda.pl/yFNSHLK_Yai8extuB25TUQ/1707200166/hd26e4152f8e62b9bc7808dc62449e0f03.mp4
