@@ -11,3 +11,21 @@ https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" timeshift="0", TVP Polonia
 #EXTGRP:15. Poland
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia
+#EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" timeshift="0", Alfa TVP
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP
+#EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" timeshift="0", Alfa TVP
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP
+#EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" timeshift="0", TVP World
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWorld
+#EXTINF:0 tvg-id="TVPABC2.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC+2.png" timeshift="0", TVP ABC 2
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2
+#EXTINF:0 tvg-id="TVPHistoria2.pl" tvg-logo="http://epg.ovh/logo/TVP+Historia+2.png" timeshift="0", TVP Historia 2
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2
+#EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" timeshift="0", TVP Kultura 2
+#EXTGRP:15. Poland
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
