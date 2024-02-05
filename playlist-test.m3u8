@@ -27,5 +27,3 @@ https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Nicktoons.pl" tvg-logo="http://epg.ovh/logo/Nicktoons.png" timeshift="0", Nicktoons
 https://cdn-main.lolokoko.tv/Nicktoons.stream/playlist.m3u8
-#EXTINF:0 tvg-id="NASATV.us" tvg-logo="http://epg.ovh/logo/NASA+TV.png" timeshift="0", NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
