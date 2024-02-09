@@ -15,14 +15,16 @@ http://130.61.85.83/399701
 http://130.61.85.83/399721
 #EXTINF:0 tvg-id="TVPNauka.pl" tvg-logo="http://epg.ovh/logo/TVP+Nauka.png" timeshift="0", TVP Nauka
 http://130.61.85.83/399722
-#EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" timeshift="0", TVP World
-http://130.61.85.83/399731
 #EXTINF:0 tvg-id="TVPABC2.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC+2.png" timeshift="0", TVP ABC 2
 http://130.61.85.83/399727
 #EXTINF:0 tvg-id="TVPHistoria2.pl" tvg-logo="http://epg.ovh/logo/TVP+Historia+2.png" timeshift="0", TVP Historia 2
 http://130.61.85.83/399725
 #EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" timeshift="0", TVP Kultura 2
 http://130.61.85.83/399728
+#EXTINF:0 tvg-id="TVPWilno.pl" tvg-logo="http://epg.ovh/logo/TVP+Wilno.png" timeshift="0", TVP Wilno
+http://130.61.85.83/999687
+#EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" timeshift="0", TVP World
+http://130.61.85.83/399731
 #EXTINF:0 tvg-id="TVPParlament.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" timeshift="0", TVP Parlament SEJM
 http://130.61.85.83/1065594
 #EXTINF:0 tvg-id="TVPParlament.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" timeshift="0", TVP Parlament SENAT
