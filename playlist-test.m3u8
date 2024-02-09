@@ -23,6 +23,10 @@ http://130.61.85.83/399727
 http://130.61.85.83/399725
 #EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" timeshift="0", TVP Kultura 2
 http://130.61.85.83/399728
+#EXTINF:0 tvg-id="TVPParlament.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" timeshift="0", TVP Parlament SEJM
+http://130.61.85.83/1065594
+#EXTINF:0 tvg-id="TVPParlament.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" timeshift="0", TVP Parlament SENAT
+http://130.61.85.83/1065595
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.ovh/logo/Disney+XD.png" timeshift="0", Disney XD
