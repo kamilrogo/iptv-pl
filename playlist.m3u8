@@ -6,17 +6,23 @@ https://cdn-main.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.ovh/logo/Polo+TV.png" timeshift="0", Polo TV
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" timeshift="0", TVP Polonia
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia
+http://130.61.85.83/399723
 #EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" timeshift="0", Alfa TVP
-https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP
+http://130.61.85.83/399726
+#EXTINF:0 tvg-id="TVPKobieta.pl" tvg-logo="http://epg.ovh/logo/TVP+Kobieta.png" timeshift="0", TVP Kobieta
+http://130.61.85.83/399701
+#EXTINF:0 tvg-id="TVPDokument.pl" tvg-logo="http://epg.ovh/logo/TVP+Dokument.png" timeshift="0", TVP Dokument
+http://130.61.85.83/399721
+#EXTINF:0 tvg-id="TVPNauka.pl" tvg-logo="http://epg.ovh/logo/TVP+Nauka.png" timeshift="0", TVP Nauka
+http://130.61.85.83/399722
 #EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" timeshift="0", TVP World
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWorld
+http://130.61.85.83/399731
 #EXTINF:0 tvg-id="TVPABC2.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC+2.png" timeshift="0", TVP ABC 2
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2
+http://130.61.85.83/399727
 #EXTINF:0 tvg-id="TVPHistoria2.pl" tvg-logo="http://epg.ovh/logo/TVP+Historia+2.png" timeshift="0", TVP Historia 2
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2
+http://130.61.85.83/399725
 #EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" timeshift="0", TVP Kultura 2
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
+http://130.61.85.83/399728
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.ovh/logo/Disney+XD.png" timeshift="0", Disney XD
