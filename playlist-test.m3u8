@@ -6,29 +6,29 @@ https://cdn-main.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.ovh/logo/Polo+TV.png" timeshift="0", Polo TV
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" timeshift="0", TVP Polonia
-http://grab.info.gf:8765/stream-forwarder/TVPPolonia
+http://free.jokertv.eu:8765/stream-forwarder/TVPPolonia
 #EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" timeshift="0", Alfa TVP
-http://grab.info.gf:8765/stream-forwarder/AlfaTVP
+http://free.jokertv.eu:8765/stream-forwarder/AlfaTVP
 #EXTINF:0 tvg-id="TVPKobieta.pl" tvg-logo="http://epg.ovh/logo/TVP+Kobieta.png" timeshift="0", TVP Kobieta
-http://grab.info.gf:8765/stream-forwarder/TVPKobieta
+http://free.jokertv.eu:8765/stream-forwarder/TVPKobieta
 #EXTINF:0 tvg-id="TVPDokument.pl" tvg-logo="http://epg.ovh/logo/TVP+Dokument.png" timeshift="0", TVP Dokument
-http://grab.info.gf:8765/stream-forwarder/TVPDokument
+http://free.jokertv.eu:8765/stream-forwarder/TVPDokument
 #EXTINF:0 tvg-id="TVPNauka.pl" tvg-logo="http://epg.ovh/logo/TVP+Nauka.png" timeshift="0", TVP Nauka
-http://grab.info.gf:8765/stream-forwarder/TVPNauka
+http://free.jokertv.eu:8765/stream-forwarder/TVPNauka
 #EXTINF:0 tvg-id="TVPABC2.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC+2.png" timeshift="0", TVP ABC 2
-http://grab.info.gf:8765/stream-forwarder/TVPABC2
+http://free.jokertv.eu:8765/stream-forwarder/TVPABC2
 #EXTINF:0 tvg-id="TVPHistoria2.pl" tvg-logo="http://epg.ovh/logo/TVP+Historia+2.png" timeshift="0", TVP Historia 2
-http://grab.info.gf:8765/stream-forwarder/TVPHistoria2
+http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria2
 #EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" timeshift="0", TVP Kultura 2
-http://grab.info.gf:8765/stream-forwarder/TVPKultura2
+http://free.jokertv.eu:8765/stream-forwarder/TVPKultura2
 #EXTINF:0 tvg-id="TVPWilno.pl" tvg-logo="http://epg.ovh/logo/TVP+Wilno.png" timeshift="0", TVP Wilno
-http://grab.info.gf:8765/stream-forwarder/TVPWilno
+http://free.jokertv.eu:8765/stream-forwarder/TVPWilno
 #EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" timeshift="0", TVP World
-http://grab.info.gf:8765/stream-forwarder/TVPWorld
+http://free.jokertv.eu:8765/stream-forwarder/TVPWorld
 #EXTINF:0 tvg-id="TVPParlamentSEJM.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" timeshift="0", TVP Parlament SEJM
-http://grab.info.gf:8765/stream-forwarder/TVPParlamentSEJM
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
 #EXTINF:0 tvg-id="TVPParlamentSENAT.pl" tvg-logo="http://epg.ovh/logo/TVP+Parlament.png" timeshift="0", TVP Parlament SENAT
-http://grab.info.gf:8765/stream-forwarder/TVPParlamentSENAT
+http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.ovh/logo/Disney+XD.png" timeshift="0", Disney XD
