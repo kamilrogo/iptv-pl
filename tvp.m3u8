@@ -59,7 +59,7 @@ http://free.jokertv.eu:8765/stream-forwarder/TVP3Lublin
 http://free.jokertv.eu:8765/stream-forwarder/TVP3Olsztyn
 #EXTINF:0 tvg-id="TVP3Opole.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Opole.png" timeshift="0", TVP 3 Opole
 http://free.jokertv.eu:8765/stream-forwarder/TVP3Opole
-#EXTINF:0 tvg-id="TVP3Poznan.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Poznan.png" timeshift="0", TVP 3 Poznan
+#EXTINF:0 tvg-id="TVP3Poznan.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Poznan.png" timeshift="0", TVP 3 Poznań
 http://free.jokertv.eu:8765/stream-forwarder/TVP3Poznan
 #EXTINF:0 tvg-id="TVP3Rzeszow.pl" tvg-logo="http://epg.ovh/logo/TVP+3+Rzeszow.png" timeshift="0", TVP 3 Rzeszów
 http://free.jokertv.eu:8765/stream-forwarder/TVP3Rzeszow
