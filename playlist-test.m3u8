@@ -37,3 +37,7 @@ https://cdn-nvm-chicago.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 https://cdn-nvm-chicago.lolokoko.tv/NickJr.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Nicktoons.pl" tvg-logo="http://epg.ovh/logo/Nicktoons.png" timeshift="0", Nicktoons
 https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/playlist.m3u8
+#EXTINF:0 tvg-id="TVNRewolucjewKuchni" tvg-logo="http://epg.ovh/logo/TVN+Kultowe+Seriale+Online.png" timeshift="0", Rewolucje w Kuchni
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayer/live/fast_rewolucje_w_kuchni/live.isml/playlist.m3u8
+#EXTINF:0 tvg-id="TVNKultoweSeriale" tvg-logo="http://epg.ovh/logo/TVN+Kultowe+Seriale+Online.png" timeshift="0", TVN Kultowe Seriale
+https://r.dcs.redcdn.pl/livehls/o2/tvnplayer/live/fast_kultowe_seriale/live.isml/playlist.m3u8
