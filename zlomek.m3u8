@@ -13,6 +13,16 @@ http://free.jokertv.eu:8765/stream-forwarder/TVPPolonia
 http://free.jokertv.eu:8765/stream-forwarder/TVPInfo
 #EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" timeshift="0", Alfa TVP
 http://free.jokertv.eu:8765/stream-forwarder/AlfaTVP
+#EXTINF:0 tvg-id="TVPKobieta.pl" tvg-logo="http://epg.ovh/logo/TVP+Kobieta.png" timeshift="0", TVP Kobieta
+http://free.jokertv.eu:8765/stream-forwarder/TVPKobieta
+#EXTINF:0 tvg-id="TVPSport.pl" tvg-logo="http://epg.ovh/logo/TVP+Sport.png" timeshift="0", TVP Sport
+http://free.jokertv.eu:8765/stream-forwarder/TVPSport
+#EXTINF:0 tvg-id="TVPDokument.pl" tvg-logo="http://epg.ovh/logo/TVP+Dokument.png" timeshift="0", TVP Dokument
+http://free.jokertv.eu:8765/stream-forwarder/TVPDokument
+#EXTINF:0 tvg-id="TVPNauka.pl" tvg-logo="http://epg.ovh/logo/TVP+Nauka.png" timeshift="0", TVP Nauka
+http://free.jokertv.eu:8765/stream-forwarder/TVPNauka
+#EXTINF:0 tvg-id="TVPRozrywka.pl" tvg-logo="http://epg.ovh/logo/TVP+Rozrywka.png" timeshift="0", TVP Rozrywka
+http://free.jokertv.eu:8765/stream-forwarder/TVPRozrywka
 #EXTINF:0 tvg-id="TVPKultura.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura.png" timeshift="0", TVP Kultura
 http://free.jokertv.eu:8765/stream-forwarder/TVPKultura
 #EXTINF:0 tvg-id="TVPKultura2.pl" tvg-logo="http://epg.ovh/logo/TVP+Kultura+2.png" timeshift="0", TVP Kultura 2
@@ -25,16 +35,6 @@ http://free.jokertv.eu:8765/stream-forwarder/TVPHistoria2
 http://free.jokertv.eu:8765/stream-forwarder/TVPABC
 #EXTINF:0 tvg-id="TVPABC2.pl" tvg-logo="http://epg.ovh/logo/TVP+ABC+2.png" timeshift="0", TVP ABC 2
 http://free.jokertv.eu:8765/stream-forwarder/TVPABC2
-#EXTINF:0 tvg-id="TVPKobieta.pl" tvg-logo="http://epg.ovh/logo/TVP+Kobieta.png" timeshift="0", TVP Kobieta
-http://free.jokertv.eu:8765/stream-forwarder/TVPKobieta
-#EXTINF:0 tvg-id="TVPSport.pl" tvg-logo="http://epg.ovh/logo/TVP+Sport.png" timeshift="0", TVP Sport
-http://free.jokertv.eu:8765/stream-forwarder/TVPSport
-#EXTINF:0 tvg-id="TVPDokument.pl" tvg-logo="http://epg.ovh/logo/TVP+Dokument.png" timeshift="0", TVP Dokument
-http://free.jokertv.eu:8765/stream-forwarder/TVPDokument
-#EXTINF:0 tvg-id="TVPNauka.pl" tvg-logo="http://epg.ovh/logo/TVP+Nauka.png" timeshift="0", TVP Nauka
-http://free.jokertv.eu:8765/stream-forwarder/TVPNauka
-#EXTINF:0 tvg-id="TVPRozrywka.pl" tvg-logo="http://epg.ovh/logo/TVP+Rozrywka.png" timeshift="0", TVP Rozrywka
-http://free.jokertv.eu:8765/stream-forwarder/TVPRozrywka
 #EXTINF:0 tvg-id="TVPWilno.pl" tvg-logo="http://epg.ovh/logo/TVP+Wilno.png" timeshift="0", TVP Wilno
 http://free.jokertv.eu:8765/stream-forwarder/TVPWilno
 #EXTINF:0 tvg-id="TVPWorld.pl" tvg-logo="http://epg.ovh/logo/TVP+World.png" timeshift="0", TVP World
