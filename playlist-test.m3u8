@@ -2,9 +2,9 @@
 #EXTINF:0 tvg-id="TVRepublika.pl" tvg-logo="http://epg.ovh/logo/TV+Republika.png" timeshift="0", TV Republika
 https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8
 #EXTINF:0 tvg-id="StopklatkaTV.pl" tvg-logo="http://epg.ovh/logo/Stopklatka+TV.png" timeshift="0", Stopklatka TV
-https://cdn-nvm-chicago.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
+https://cdn.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.ovh/logo/Polo+TV.png" timeshift="0", Polo TV
-https://cdn-nvm-chicago.lolokoko.tv/PoloTV.stream/playlist.m3u8
+https://cdn.lolokoko.tv/PoloTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" timeshift="0", TVP Polonia
 http://free.jokertv.eu:8765/stream-forwarder/TVPPolonia
 #EXTINF:0 tvg-id="AlfaTVP.pl" tvg-logo="http://epg.ovh/logo/Alfa+TVP.png" timeshift="0", Alfa TVP
@@ -32,12 +32,8 @@ http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.ovh/logo/Disney+XD.png" timeshift="0", Disney XD
-https://cdn-nvm-chicago.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+https://cdn.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 #EXTINF:0 tvg-id="NickJr.pl" tvg-logo="http://epg.ovh/logo/Nick+Jr..png" timeshift="0", Nick Jr.
-https://cdn-nvm-chicago.lolokoko.tv/NickJr.stream/playlist.m3u8
+https://cdn.lolokoko.tv/NickJr.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Nicktoons.pl" tvg-logo="http://epg.ovh/logo/Nicktoons.png" timeshift="0", Nicktoons
-https://cdn-nvm-chicago.lolokoko.tv/Nicktoons.stream/playlist.m3u8
-#EXTINF:0 tvg-id="TVNRewolucjewKuchni" tvg-logo="http://epg.ovh/logo/TVN+Rewolucje+w+Kuchni+Online.png" timeshift="0", TVN Rewolucje w Kuchni
-https://r.dcs.redcdn.pl/livehls/o2/tvnplayer/live/fast_rewolucje_w_kuchni/live.isml/playlist.m3u8
-#EXTINF:0 tvg-id="TVNKultoweSeriale" tvg-logo="http://epg.ovh/logo/TVN+Kultowe+Seriale+Online.png" timeshift="0", TVN Kultowe Seriale
-https://r.dcs.redcdn.pl/livehls/o2/tvnplayer/live/fast_kultowe_seriale/live.isml/playlist.m3u8
+https://cdn.lolokoko.tv/Nicktoons.stream/playlist.m3u8
