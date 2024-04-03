@@ -31,3 +31,9 @@ http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
 http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0 tvg-id="DisneyXD.pl" tvg-logo="http://epg.ovh/logo/Disney+XD.png" timeshift="0", Disney XD
+https://cdn.lolokoko.tv/DisneyXD.stream/playlist.m3u8
+#EXTINF:0 tvg-id="NickJr.pl" tvg-logo="http://epg.ovh/logo/Nick+Jr..png" timeshift="0", Nick Jr.
+https://cdn.lolokoko.tv/NickJr.stream/playlist.m3u8
+#EXTINF:0 tvg-id="Nicktoons.pl" tvg-logo="http://epg.ovh/logo/Nicktoons.png" timeshift="0", Nicktoons
+https://cdn.lolokoko.tv/Nicktoons.stream/playlist.m3u8
