@@ -9,7 +9,3 @@ For any commercial purpose, please create your own "stream forwarder" -
 you just need a server and few lines of code.
 
 ---
-
-Im using "youtube-hls-m3u8" project to get live stream link from youtube: https://github.com/abskmj/youtube-hls-m3u8
-
----
