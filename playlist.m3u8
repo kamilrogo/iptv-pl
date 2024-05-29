@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="TVRepublika.pl" tvg-logo="http://epg.ovh/logo/TV+Republika.png" timeshift="0", TV Republika
 http://free.jokertv.eu:8765/youtube/Telewizja_Republika
 #EXTINF:0 tvg-id="StopklatkaTV.pl" tvg-logo="http://epg.ovh/logo/Stopklatka+TV.png" timeshift="0", Stopklatka TV
-https://cdn.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8
+http://free.jokertv.eu:9876/premium-forwarder/STOPKLATKA
 #EXTINF:0 tvg-id="PoloTV.pl" tvg-logo="http://epg.ovh/logo/Polo+TV.png" timeshift="0", Polo TV
 https://cdn.lolokoko.tv/PoloTV.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TVPPolonia.pl" tvg-logo="http://epg.ovh/logo/TVP+Polonia.png" timeshift="0", TVP Polonia
