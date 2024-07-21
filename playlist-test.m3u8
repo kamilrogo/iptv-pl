@@ -45,3 +45,29 @@ http://free.jokertv.eu:9876/premium-forwarder/TVNKryminalnie
 http://free.jokertv.eu:9876/premium-forwarder/TVNKultoweSeriale
 #EXTINF:0 tvg-id="TVNMomentyPrawdy.pl" tvg-logo="http://epg.ovh/logo/TVN+Momenty+Prawdy+Online.png" timeshift="0", TVN Momenty Prawdy
 http://free.jokertv.eu:9876/premium-forwarder/TVNMomentyPrawdy
+#EXTINF:0 tvg-id="TVNMoto.pl" tvg-logo="http://epg.ovh/logo/TVN+Moto+Online.png" timeshift="0", TVN Moto
+http://free.jokertv.eu:9876/premium-forwarder/TVNMoto
+#EXTINF:0 tvg-id="TVNPrawoiZycie.pl" tvg-logo="http://epg.ovh/logo/TVN+Prawo+i+%c5%bbycie+Online.png" timeshift="0", TVN Prawo i Życie
+http://free.jokertv.eu:9876/premium-forwarder/TVNPrawoiZycie
+#EXTINF:0 tvg-id="TVNRajskaMilosc.pl" tvg-logo="http://epg.ovh/logo/TVN+Rajska+Mi%c5%82o%c5%9b%c4%87+Online.png" timeshift="0", TVN Rajska Miłość
+http://free.jokertv.eu:9876/premium-forwarder/TVNRajskaMilosc
+#EXTINF:0 tvg-id="TVNRewolucjewKuchni.pl" tvg-logo="http://epg.ovh/logo/TVN+Rewolucje+w+Kuchni+Online.png" timeshift="0", TVN Rewolucje w Kuchni
+http://free.jokertv.eu:9876/premium-forwarder/TVNRewolucjewKuchni
+#EXTINF:0 tvg-id="TVNSerialeoKobietach.pl" tvg-logo="http://epg.ovh/logo/TVN+Seriale+o+Kobietach+Online.png" timeshift="0", TVN Seriale o Kobietach
+http://free.jokertv.eu:9876/premium-forwarder/TVNSerialeoKobietach
+#EXTINF:0 tvg-id="TVNSzkolaZycia.pl" tvg-logo="http://epg.ovh/logo/TVN+Szko%c5%82a+%c5%bbycia+Online.png" timeshift="0", TVN Szkoła Życia
+http://free.jokertv.eu:9876/premium-forwarder/TVNSzkolaZycia
+#EXTINF:0 tvg-id="TVNSzpitalneHistorie.pl" tvg-logo="http://epg.ovh/logo/TVN+Szpitalne+Historie+Online.png" timeshift="0", TVN Szpitalne Historie
+http://free.jokertv.eu:9876/premium-forwarder/TVNSzpitalneHistorie
+#EXTINF:0 tvg-id="TVNTalkShow.pl" tvg-logo="http://epg.ovh/logo/TVN+Talk+Show+Online.png" timeshift="0", TVN Talk Show
+http://free.jokertv.eu:9876/premium-forwarder/TVNTalkShow
+#EXTINF:0 tvg-id="TVNTelenowele.pl" tvg-logo="http://epg.ovh/logo/TVN+Telenowele+Online.png" timeshift="0", TVN Telenowele
+http://free.jokertv.eu:9876/premium-forwarder/TVNTelenowele
+#EXTINF:0 tvg-id="TVNUsterka.pl" tvg-logo="http://epg.ovh/logo/TVN+Usterka+Online.png" timeshift="0", TVN Usterka
+http://free.jokertv.eu:9876/premium-forwarder/TVNUsterka
+#EXTINF:0 tvg-id="TVNWDomu.pl" tvg-logo="http://epg.ovh/logo/TVN+W+Domu+Online.png" timeshift="0", TVN W Domu
+http://free.jokertv.eu:9876/premium-forwarder/TVNWDomu
+#EXTINF:0 tvg-id="TVNMilionerzy.pl" tvg-logo="http://epg.ovh/logo/TVN+Milionerzy+Online.png" timeshift="0", TVN Milionerzy
+http://free.jokertv.eu:9876/premium-forwarder/TVNMilionerzy
+#EXTINF:0 tvg-id="TVNZycieJakwBajce.pl" tvg-logo="http://epg.ovh/logo/TVN+%c5%bbycie+Jak+w+Bajce+Online.png" timeshift="0", TVN Życie Jak w Bajce
+http://free.jokertv.eu:9876/premium-forwarder/TVNZycieJakwBajce
