@@ -39,3 +39,9 @@ http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSEJM
 http://free.jokertv.eu:8765/stream-forwarder/TVPParlamentSENAT
 #EXTINF:0 tvg-id="4FunTV.pl" tvg-logo="http://epg.ovh/logo/4FUN+TV.png" timeshift="0", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0 tvg-id="TVNKryminalnie.pl" tvg-logo="http://epg.ovh/logo/TVN+Kryminalnie+Online.png" timeshift="0", TVN Kryminalnie
+http://free.jokertv.eu:9876/premium-forwarder/TVNKryminalnie
+#EXTINF:0 tvg-id="TVNKultoweSeriale.pl" tvg-logo="http://epg.ovh/logo/TVN+Kultowe+Seriale+Online.png" timeshift="0", TVN Kultowe Seriale
+http://free.jokertv.eu:9876/premium-forwarder/TVNKultoweSeriale
+#EXTINF:0 tvg-id="TVNMomentyPrawdy.pl" tvg-logo="http://epg.ovh/logo/TVN+Momenty+Prawdy+Online.png" timeshift="0", TVN Momenty Prawdy
+http://free.jokertv.eu:9876/premium-forwarder/TVNMomentyPrawdy
