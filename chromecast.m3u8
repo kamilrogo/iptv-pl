@@ -79,7 +79,3 @@ http://free.jokertv.eu:9876/premium-forwarder/ZOOMTV
 http://free.jokertv.eu:9876/premium-forwarder/NOWATV
 #EXTINF:0 tvg-id="WP.pl" tvg-logo="http://epg.ovh/logo/WP.png" timeshift="0", WP
 http://free.jokertv.eu:9876/premium-forwarder/WP
-#EXTINF:0 tvg-id="Wydarzenia24.pl" tvg-logo="http://epg.ovh/logo/Wydarzenia+24.png" timeshift="0", Wydarzenia 24
-http://free.jokertv.eu:9876/premium-forwarder/Wydarzenia24
-#EXTINF:0 tvg-id="ViDocTV.pl" tvg-logo="http://epg.ovh/logo/ViDoc+TV.png" timeshift="0", ViDoc TV
-http://free.jokertv.eu:9876/premium-forwarder/ViDocTV
