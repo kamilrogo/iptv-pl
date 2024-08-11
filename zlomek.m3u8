@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="TVRepublika.pl" tvg-logo="http://epg.ovh/logo/TV+Republika.png" timeshift="0", TV Republika
-http://free.jokertv.eu:8765/youtube/Telewizja_Republika
+http://free.jokertv.eu:9876/premium-forwarder/TVRepublika
 #EXTINF:0 tvg-id="TVTrwam.pl" tvg-logo="http://epg.ovh/logo/TV+Trwam.png" timeshift="0", TV Trwam
-https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+http://free.jokertv.eu:9876/premium-forwarder/TVTRWAM
 #EXTINF:0 tvg-id="TVP1.pl" tvg-logo="http://epg.ovh/logo/TVP+1.png" timeshift="0", TVP 1
 http://free.jokertv.eu:8765/stream-forwarder/TVP1
 #EXTINF:0 tvg-id="TVP2.pl" tvg-logo="http://epg.ovh/logo/TVP+2.png" timeshift="0", TVP 2
