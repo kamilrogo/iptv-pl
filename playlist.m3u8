@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="TVRepublika.pl" tvg-logo="http://epg.ovh/logo/TV+Republika.png" timeshift="0", TV Republika
-http://free.jokertv.eu:8765/youtube/Telewizja_Republika
+http://free.jokertv.eu:9876/premium-forwarder/TVRepublika
 #EXTINF:0 tvg-id="StopklatkaTV.pl" tvg-logo="http://epg.ovh/logo/Stopklatka+TV.png" timeshift="0", Stopklatka TV
 http://free.jokertv.eu:9876/premium-forwarder/StopklatkaTV
 #EXTINF:0 tvg-id="METRO.pl" tvg-logo="http://epg.ovh/logo/METRO.png" timeshift="0", METRO
