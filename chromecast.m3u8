@@ -79,3 +79,5 @@ http://free.jokertv.eu:9876/premium-forwarder/ZOOMTV
 http://free.jokertv.eu:9876/premium-forwarder/NOWATV
 #EXTINF:0 tvg-id="WP.pl" tvg-logo="http://epg.ovh/logo/WP.png" timeshift="0", WP
 http://free.jokertv.eu:9876/premium-forwarder/WP
+#EXTINF:0 tvg-id="PolsatNews.pl" tvg-logo="http://epg.ovh/logo/Polsat+News.png" timeshift="0", Polsat News
+http://free.jokertv.eu:9876/premium-forwarder/PolsatNews
